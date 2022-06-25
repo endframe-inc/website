@@ -1,0 +1,85 @@
+// -----------------------------------------------------------------------------------
+
+// 	_variables.scss
+
+// -----------------------------------------------------------------------------------
+
+
+//  ----------------------------------------------------------------
+// 	Base Colors
+// -----------------------------------------------------------------
+
+$theme-color:                   #5d16d8;
+$theme-color-1:                 #30ebf2;
+$theme-color-2:                 #2ebf6d;
+$theme-color-3:                 #f2f7ff;
+$theme-color-4:                 #e4eefe;
+$theme-color-5:                 #507afa;
+
+$body-color:                    #999;
+
+$dark-color:					#222;
+
+$link-color: 					#5273f9;
+$link-hover-color: 				#222;
+$link-focus-color: 				#5273f9;
+
+$heading-color:                 #222;
+
+$highlight-color:		 		#222;
+$highlight-bg-color: 			#c0eaf5;
+
+
+//  ----------------------------------------------------------------
+// 	Skins Control
+// -----------------------------------------------------------------
+
+// @import "skins/_skin-default";
+
+
+//  ----------------------------------------------------------------
+// 	Line Height Variables
+// -----------------------------------------------------------------
+
+$line-height-base:              1.7;
+$line-height-content:           1.9;
+$line-height-heading:           1.4;
+
+
+//  ----------------------------------------------------------------
+// 	Font Families
+// -----------------------------------------------------------------
+
+$body-font:                     "Open Sans", sans-serif;
+$heading-font:                  "Montserrat", sans-serif;
+$secondary-font:                "Playfair Display", "Droid Arabic Kufi", sans-serif;
+
+
+//  ----------------------------------------------------------------
+// 	Font Sizes
+// -----------------------------------------------------------------
+
+$font-size-base:                14px;
+
+/* Font Size Headings */
+$font-size-h1:                  32px;
+$font-size-h2:                  28px;
+$font-size-h3:                  24px;
+$font-size-h4:                  20px;
+$font-size-h5:                  16px;
+$font-size-h6:                  14px;
+
+/* Font Size Custom */
+$font-size-10: 					10px;
+$font-size-11: 					11px;
+$font-size-12: 					12px;
+$font-size-13: 					13px;
+$font-size-14: 					14px;
+$font-size-15: 					15px;
+$font-size-16: 					16px;
+$font-size-17: 					17px;
+$font-size-18: 					18px;
+$font-size-19: 					19px;
+$font-size-20: 					20px;
+
+
